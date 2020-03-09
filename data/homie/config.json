@@ -1,0 +1,17 @@
+{
+    "name": "ledStrip",
+    "device_id": "ledStrip1",
+    "device_stats_interval": 60,
+    "wifi": {
+      "ssid": "xman",
+      "password": "rhitee10"
+    },
+    "mqtt": {
+      "host": "192.168.1.229",
+      "port": 1883,
+      "base_topic": "devices/"
+    },
+    "ota": {
+      "enabled": true
+    }
+  }
